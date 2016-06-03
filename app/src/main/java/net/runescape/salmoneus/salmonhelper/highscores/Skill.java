@@ -3,7 +3,7 @@ package net.runescape.salmoneus.salmonhelper.highscores;
 /**
  * Created by Kenneth Beck (girko) on 5/31/16.
  * @email: <thebeckken@gmail.com>
- cd Andr
+ *
  */
 
 /**

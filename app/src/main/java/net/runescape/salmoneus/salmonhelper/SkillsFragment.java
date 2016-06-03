@@ -23,6 +23,7 @@ public class SkillsFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
 
+        //TODO: Have a better way of doing this that supports OSRS
         String[] skills = {"Overall","Attack","Defence","Strength","Constitution","Ranged",
                             "Prayer","Magic","Cooking","Woodcutting","Fletching","Firemaking",
                             "Crafting","Smithing","Mining","Herblore","Agility","Theiving",
